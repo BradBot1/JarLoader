@@ -1,4 +1,4 @@
-package com.bb1.jarloader;
+package fun.bb1.jarloader;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;

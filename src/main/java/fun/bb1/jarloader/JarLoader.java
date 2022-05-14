@@ -1,6 +1,6 @@
-package com.bb1.jarloader;
+package fun.bb1.jarloader;
 
-import static com.bb1.exceptions.handler.ExceptionHandler.handle;
+import static fun.bb1.exceptions.handler.ExceptionHandler.handle;
 
 import java.io.File;
 import java.lang.annotation.Annotation;
@@ -15,7 +15,7 @@ import java.util.jar.JarFile;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-import com.bb1.reflection.ClassUtils;
+import fun.bb1.reflection.ClassUtils;
 
 /**
  * 
